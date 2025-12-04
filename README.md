@@ -1,2 +1,4 @@
 # AoC-2025
-Common Lisp AoC 2025 solutions
+AoC 2025 solutions in Common Lisp
+
+SBCL will be used, with no thought towards portability, sorry :/
